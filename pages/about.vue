@@ -2,24 +2,21 @@
   <div class="container">
     <div>
       <h1 class="title">
-        Home
+        About
       </h1>
       <h2 class="subtitle">
-        hello
+        whats it about?
       </h2>
-      </div>
     </div>
   </div>
 </template>
 
 <script>
-
 export default {
- 
+
 }
 </script>
 
 <style scoped>
-
 
 </style>

@@ -5,10 +5,14 @@
 
 
         <nuxt-link
-
-        to="/about" 
+        to="/login" 
         class="inactive-link"
-        exact>About</nuxt-link>
+        exact>Login</nuxt-link>
+       
+        <nuxt-link
+        to="/register" 
+        class="inactive-link"
+        exact>Register</nuxt-link>
        
         <nuxt-link
         to="/" 
@@ -29,17 +33,20 @@ export default {
 
 <style scoped>
 
+.link-container {
+  margin: 5%;
+}
+
 .links {
   justify-content: center;
   align-items: center;
   text-align: center;
 }
 
-
 .nuxt-link-exact-active {
  
   background-color: #3b8070 !important;
-
+  border: 0px !important;
   color: #fff !important;
 }
 

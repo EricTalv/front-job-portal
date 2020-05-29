@@ -7,7 +7,6 @@
       <h2 class="subtitle">
         hello
       </h2>
-      </div>
     </div>
   </div>
 </template>

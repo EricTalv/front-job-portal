@@ -2,11 +2,9 @@
   <div class="container">
     <div>
       <h1 class="title">
-        About
+        Register
       </h1>
-      <h2 class="subtitle">
-        whats it about?
-      </h2>
+    
     </div>
   </div>
 </template>

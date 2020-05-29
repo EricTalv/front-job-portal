@@ -38,14 +38,9 @@ export default {
 
 .nuxt-link-exact-active {
  
-  background-color: #3b8070;
+  background-color: #3b8070 !important;
 
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #3b8070;
-  color: #fff;
-  text-decoration: none;
-  padding: 10px 30px;
+  color: #fff !important;
 }
 
 
